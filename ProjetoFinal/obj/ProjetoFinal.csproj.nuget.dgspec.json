@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\ProjetoFinal.csproj": {}
+    "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\ProjetoFinal.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\ProjetoFinal.csproj": {
+    "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\ProjetoFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\ProjetoFinal.csproj",
+        "projectUniqueName": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\ProjetoFinal.csproj",
         "projectName": "ProjetoFinal",
-        "projectPath": "c:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\ProjetoFinal.csproj",
+        "projectPath": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\ProjetoFinal.csproj",
         "packagesPath": "C:\\Users\\lilit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\obj\\",
+        "outputPath": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lilit\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,33 @@
+@page
+@model ProjetoFinal.Pages.Index
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <table>
+        <thead>
+            <tr>
+                <td>ID</td>
+                <td>Nome</td>
+                <td>Data de nascimento</td>
+                <td>Telefone</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var alunoModel in Model.Alunos)
+            {
+                <tr>
+                    <td>@alunoModel.Id</td>
+                    <td>@alunoModel.Nome</td>
+                    <td>@alunoModel.DataNascimento</td>
+                    <td>@alunoModel.Telefone</td>
+                </tr>
+                <p></p>
+            }
+        </tbody>
+    </table>
+    
+</div>

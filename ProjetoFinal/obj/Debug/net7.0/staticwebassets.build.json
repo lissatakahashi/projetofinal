@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "khyS4oxt+V3DWT/6GcAkR3wQVrPxv13bz632Xj+32vY=",
+  "Source": "ProjetoFinal",
+  "BasePath": "_content/ProjetoFinal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjetoFinal\\wwwroot",
+      "Source": "ProjetoFinal",
+      "ContentRoot": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinal",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
