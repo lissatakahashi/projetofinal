@@ -6,13 +6,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace ProjetoFinal.Pages
+namespace ProjetoFinal.Pages.Login
 {
-    public class Notas : PageModel
+    public class Index : PageModel
     {
-        private readonly ILogger<Notas> _logger;
+        private readonly ILogger<Index> _logger;
 
-        public Notas(ILogger<Notas> logger)
+        public Index(ILogger<Index> logger)
         {
             _logger = logger;
         }

@@ -1,7 +1,8 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace ProjetoFinal.Pages;
-
+namespace ProjetoFinal.Pages
+{
     public class Alunos : PageModel
     {
         public List<AlunoModel> AlunosList { get; set; } = new();
@@ -12,16 +13,21 @@ namespace ProjetoFinal.Pages;
         //     _logger = logger;
         // }
 
-        public void OnGet()
+        public void OnGet([FromRoute] int skip=0, [FromRoute] int take=25)
         {
-            for (int i = 0; i < 10; i++)
+            List<AlunoModel> alunos = new();
+
+            for (int i = 0; i < 1000; i++)
             {
-                AlunosList.Add(new AlunoModel(i,
+                alunos.Add(new AlunoModel(i,
                     $"Nome {i}",
                     DateTime.Now,
                     $"Telefone {i}")
                 );
             }
+
+            AlunosList = alunos.Skip(skip).Take(take).ToList();
         }
     }
     
+}

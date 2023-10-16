@@ -9,25 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoFinal
 build_property.RootNamespace = ProjetoFinal
-build_property.ProjectDir = c:\Users\lilit\OneDrive\Documentos\faculdade\2023-2\tds\projetofinal\ProjetoFinal\
+build_property.ProjectDir = C:\Users\lilit\OneDrive\Documentos\faculdade\2023-2\tds\projetofinal\ProjetoFinal\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\lilit\OneDrive\Documentos\faculdade\2023-2\tds\projetofinal\ProjetoFinal
+build_property.MSBuildProjectDirectory = C:\Users\lilit\OneDrive\Documentos\faculdade\2023-2\tds\projetofinal\ProjetoFinal
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Alunos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWx1bm9zLmNzaHRtbA==
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Aluno/Aluno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWx1bm9cQWx1bm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Index.cshtml]
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Aluno/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWx1bm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Cadastro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Notas.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90YXMuY3NodG1s
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Shared/_MenuPartialPage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NZW51UGFydGlhbFBhZ2UuY3NodG1s
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Nota/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Planejamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhbmVqYW1lbnRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Shared/_MainMenuPartialPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NYWluTWVudVBhcnRpYWxQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/Shared/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lilit/OneDrive/Documentos/faculdade/2023-2/tds/projetofinal/ProjetoFinal/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

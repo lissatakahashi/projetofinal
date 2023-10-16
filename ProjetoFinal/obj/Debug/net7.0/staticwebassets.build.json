@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "khyS4oxt+V3DWT/6GcAkR3wQVrPxv13bz632Xj+32vY=",
+  "Hash": "X5sUjN+Gd/EoMjilYCpTTc23a0Zo/bNFu//AfM5/BqM=",
   "Source": "ProjetoFinal",
   "BasePath": "_content/ProjetoFinal",
   "Mode": "Default",
@@ -15,5 +15,40 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\wwwroot\\css\\style.css",
+      "SourceId": "ProjetoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinal",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\wwwroot\\images\\professora.jpg",
+      "SourceId": "ProjetoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-2\\tds\\projetofinal\\ProjetoFinal\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinal",
+      "RelativePath": "images/professora.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\professora.jpg"
+    }
+  ]
 }

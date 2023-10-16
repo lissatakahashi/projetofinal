@@ -1,13 +1,13 @@
-@page "/Alunos"
+@page "/Alunos/{skip?}/{take?}"
 @model ProjetoFinal.Pages.Alunos
 @{
     ViewData["Title"] = "Alunos";
+    Layout = "./Shared/_Layout.cshtml";
 }
 
 <h1>@ViewData["Title"]</h1>
 
 <div>
-    @Html.Partial("./Shared/_MenuPartialPage.cshtml")
     
     <table>
         <thead>
