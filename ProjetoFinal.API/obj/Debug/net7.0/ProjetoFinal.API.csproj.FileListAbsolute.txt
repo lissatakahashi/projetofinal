@@ -1,0 +1,7 @@
+C:\Users\lilit\OneDrive\Documentos\faculdade\2023-2\tds\projetofinal\ProjetoFinal.API\obj\Debug\net7.0\ProjetoFinal.API.csproj.AssemblyReference.cache
+C:\Users\lilit\OneDrive\Documentos\faculdade\2023-2\tds\projetofinal\ProjetoFinal.API\obj\Debug\net7.0\ProjetoFinal.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilit\OneDrive\Documentos\faculdade\2023-2\tds\projetofinal\ProjetoFinal.API\obj\Debug\net7.0\ProjetoFinal.API.AssemblyInfoInputs.cache
+C:\Users\lilit\OneDrive\Documentos\faculdade\2023-2\tds\projetofinal\ProjetoFinal.API\obj\Debug\net7.0\ProjetoFinal.API.AssemblyInfo.cs
+C:\Users\lilit\OneDrive\Documentos\faculdade\2023-2\tds\projetofinal\ProjetoFinal.API\obj\Debug\net7.0\ProjetoFinal.API.csproj.CoreCompileInputs.cache
+C:\Users\lilit\OneDrive\Documentos\faculdade\2023-2\tds\projetofinal\ProjetoFinal.API\obj\Debug\net7.0\ProjetoFinal.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lilit\OneDrive\Documentos\faculdade\2023-2\tds\projetofinal\ProjetoFinal.API\obj\Debug\net7.0\ProjetoFinal.API.MvcApplicationPartsAssemblyInfo.cache
