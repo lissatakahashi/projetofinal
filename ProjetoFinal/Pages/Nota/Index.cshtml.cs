@@ -1,24 +1,26 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.Extensions.Logging;
+using Microsoft.EntityFrameworkCore;
+using ProjetoFinal.Data;
+using ProjetoFinal.Model;
 
 namespace ProjetoFinal.Pages.Nota
 {
     public class Index : PageModel
     {
-        private readonly ILogger<Index> _logger;
+        private readonly AppDbContext _context;
 
-        public Index(ILogger<Index> logger)
+        public List<NotaModel> NotaList { get; set; } = new();
+
+        public Index(AppDbContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
-        public void OnGet()
+        public async Task<IActionResult> OnGetAsync()
         {
+            NotaList = await _context.Notas!.ToListAsync();
+            return Page();
         }
     }
 }

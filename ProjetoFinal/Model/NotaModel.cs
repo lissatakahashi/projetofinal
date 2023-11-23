@@ -5,5 +5,6 @@ namespace ProjetoFinal.Model {
         public decimal? Prova2 { get; set; }
         public decimal? Trabalho { get; set; }
         public decimal? Atividade { get; set; }
+        public List<AlunoModel>? Alunos { get; set; }
     }
 }
